@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TextView" type="id" />
+    <item name="button_time_picker" type="id" />
+    <item name="button_cancel" type="id" />
+</resources>
